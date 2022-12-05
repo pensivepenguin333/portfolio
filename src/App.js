@@ -16,23 +16,6 @@ function App() {
         </Routes>
       </div>
     </div>
-    // <div className="App">
-    //   <Nav />
-    //   {/* <BrowserRouter>
-    //   <nav>
-    //     <Link to="/">Home</Link>
-    //     <Link to="/about">About</Link>
-    //   </nav>
-    //   <Switch>
-    //     <Route exact path="/" component={Home} />
-    //     <Route path="/about">
-    //       <About />
-    //     </Route>
-
-    //   </Switch>
-    //   </BrowserRouter> */}
-
-    // </div>
   );
 }
 

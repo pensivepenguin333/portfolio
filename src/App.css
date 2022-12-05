@@ -1,3 +1,9 @@
+.App {
+  margin: auto;
+  max-width: 1500px;
+  font-family: Montserrat, sans-serif;
+}
+
 * {
   box-sizing: border-box;
 }
@@ -14,8 +20,3 @@ body {
   margin: 1rem;
   text-align: center;
 }
-
-/* .App {
-  margin: auto;
-  max-width: 1500px;
-} */

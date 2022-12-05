@@ -1,11 +1,15 @@
 import "./Home.css";
-import Nav from './Nav';
-// import {BrowserRouter, Link, Route, Switch} from 'react-router-dom'
 
 export default function Home() {
     return  (
         <div className="Home">
-            hello
+            <p>
+                hello!
+            </p>
+            <p>
+                I'm pensivepenguin333, an undergraduate student at Brown 
+                University, concentrating in Applied Mathematics-Computer Science.
+            </p>
         </div>
     )
 }

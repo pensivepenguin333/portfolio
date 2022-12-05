@@ -1,6 +1,4 @@
 import "./Nav.css";
-import Home from './Home'
-import About from './About'
 import {Link, useMatch, useResolvedPath} from 'react-router-dom'
 
 export default function Nav() {
