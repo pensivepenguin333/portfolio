@@ -1,19 +1,23 @@
 [
     {
       "name": "personas and storyboarding",
-      "cover": "images/personas.png"
+      "cover": "images/personas.png",
+      "path": "personas-storyboarding"
     },
     {
       "name": "responsive redesign",
-      "cover": "images/responsive.png"
+      "cover": "images/responsive.png",
+      "path": "responsive-redesign"
     },
     {
       "name": "iterative design",
-      "cover": "images/iterative.png"
+      "cover": "images/iterative.png",
+      "path": "iterative-design"
     },
     {
       "name": "development",
-      "cover": "images/development.png"
+      "cover": "images/development.png",
+      "path": "development"
     }
   ]
   
