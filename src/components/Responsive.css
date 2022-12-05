@@ -1,12 +1,12 @@
-.Personas {
+.Responsive {
     text-align: left;
     padding-top: 1rem;
     width: 80vw;
     margin: auto;
 }
 
-.personas span{
-    background-color: #d1ecfc;
+.responsive span{
+    background-color: #d2e4dc;
 }
 
 .content {

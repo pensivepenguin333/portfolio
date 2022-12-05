@@ -6,7 +6,7 @@ import storyboard from './img/storyboard.png';
 export default function Personas() {
     return  (
         <div className="Personas">
-            <h1>
+            <h1 className="personas">
                 <span>Personas and Storyboarding</span>
             </h1>
             <h2>
