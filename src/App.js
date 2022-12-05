@@ -10,6 +10,7 @@ function App() {
   return (
     <div className='App'>
       <Nav />
+      <hr />
       <div className='container'>
         <Routes>
           <Route path="/" element={<Home/>} />

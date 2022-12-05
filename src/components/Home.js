@@ -5,8 +5,11 @@ import Projects from './Projects'
 export default function Home() {
     return  (
         <div className="Home">
-            <Intro />
-            <Projects />
+            <div className="content">
+                <Intro />
+                <Projects />
+            </div>
+
         </div>
     )
 }

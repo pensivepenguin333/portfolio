@@ -1,22 +1,18 @@
 [
     {
       "name": "personas and storyboarding",
-      "description": "Pop",
       "cover": "images/personas.png"
     },
     {
       "name": "responsive redesign",
-      "description": "Pop",
       "cover": "images/responsive.png"
     },
     {
       "name": "iterative design",
-      "description": "Pop",
       "cover": "images/iterative.png"
     },
     {
       "name": "development",
-      "description": "Pop",
       "cover": "images/development.png"
     }
   ]
