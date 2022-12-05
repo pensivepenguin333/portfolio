@@ -1,15 +1,12 @@
 import "./Home.css";
+import Intro from './Intro'
+import Projects from './Projects'
 
 export default function Home() {
     return  (
         <div className="Home">
-            <p>
-                hello!
-            </p>
-            <p>
-                I'm pensivepenguin333, an undergraduate student at Brown 
-                University, concentrating in Applied Mathematics-Computer Science.
-            </p>
+            <Intro />
+            <Projects />
         </div>
     )
 }

@@ -1,0 +1,26 @@
+.container {
+    text-align: left;
+    /* max-width: 600px; */
+    margin-left: 10px;
+    /* padding-left: 0px; */
+}
+
+.intro {
+    display: inline-block; 
+    text-align: left;
+}
+
+.greeting {
+    font-size: 25px;
+    font-weight: 700;
+    margin-bottom: 0;
+}
+
+.info {
+    margin-top: 10px;
+    font-size: 18px;
+}
+
+.info span {
+    background-color: #d6d8f6;
+}
