@@ -15,10 +15,10 @@ function App() {
         <Routes>
           <Route path="/portfolio2/" element={<Home/>} />
           <Route path="/about" element={<About/>} />
-          <Route path="/personas-storyboarding" element={<About/>} />
-          <Route path="/responsive-redesign" element={<About/>} />
-          <Route path="/iterative-design" element={<About/>} />
-          <Route path="/development" element={<About/>} />
+          <Route path="/personas" element={<About/>} />
+          <Route path="/responsive" element={<About/>} />
+          <Route path="/iterative" element={<About/>} />
+          <Route path="/react" element={<About/>} />
         </Routes>
       </div>
     </div>
