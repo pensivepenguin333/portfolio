@@ -1,17 +1,25 @@
 {
   "files": {
-    "main.css": "/portfolio2/static/css/main.d2cc2a73.css",
-    "main.js": "/portfolio2/static/js/main.44e2ba31.js",
+    "main.css": "/portfolio2/static/css/main.8b5d922b.css",
+    "main.js": "/portfolio2/static/js/main.d778b3ee.js",
+    "static/media/orig-annotated.png": "/portfolio2/static/media/orig-annotated.d5bc3f242b879b9c9ab8.png",
+    "static/media/desktop-annotated.png": "/portfolio2/static/media/desktop-annotated.22233f1f233aa4cc16a1.png",
+    "static/media/tablet-annotated.png": "/portfolio2/static/media/tablet-annotated.9c136ca978e18184f36b.png",
+    "static/media/mobile-annotated.png": "/portfolio2/static/media/mobile-annotated.5377520ed7cc8b767712.png",
+    "static/media/redesign2.png": "/portfolio2/static/media/redesign2.0d8bda243852bb957a1c.png",
     "static/media/storyboard.png": "/portfolio2/static/media/storyboard.b9f6f534498456d2b9e9.png",
+    "static/media/style-guide.png": "/portfolio2/static/media/style-guide.6eb37f7fcc8bd5cc7e54.png",
     "static/media/two-personas.png": "/portfolio2/static/media/two-personas.fe45133838acf863c9af.png",
+    "static/media/lofi.png": "/portfolio2/static/media/lofi.7c82ce43d13eb51e2c49.png",
+    "static/media/redesign.png": "/portfolio2/static/media/redesign.dafddb8ceaa3f8935531.png",
     "static/media/sketch.png": "/portfolio2/static/media/sketch.ff1c61fa53f78c7f82c5.png",
     "static/media/logo.svg": "/portfolio2/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/portfolio2/index.html",
-    "main.d2cc2a73.css.map": "/portfolio2/static/css/main.d2cc2a73.css.map",
-    "main.44e2ba31.js.map": "/portfolio2/static/js/main.44e2ba31.js.map"
+    "main.8b5d922b.css.map": "/portfolio2/static/css/main.8b5d922b.css.map",
+    "main.d778b3ee.js.map": "/portfolio2/static/js/main.d778b3ee.js.map"
   },
   "entrypoints": [
-    "static/css/main.d2cc2a73.css",
-    "static/js/main.44e2ba31.js"
+    "static/css/main.8b5d922b.css",
+    "static/js/main.d778b3ee.js"
   ]
 }
