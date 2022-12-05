@@ -6,7 +6,7 @@ export default function Nav() {
         <nav className="nav">
             <Link to="/portfolio2/" className="name">pensivepenguin333</Link>
             <ul>
-                <CustomLink to="/portfolio2/"> work2 </CustomLink>
+                <CustomLink to="/portfolio2/"> work </CustomLink>
                 <CustomLink to="/about"> about </CustomLink>
             </ul>
         </nav>

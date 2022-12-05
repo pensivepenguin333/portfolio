@@ -6,14 +6,20 @@
     width: 400px;
     position: relative;
 
+
 }
 
+.Project:hover {
+    filter: drop-shadow(-6px 6px 0.25rem black);
+    transition: 0.25s;
+}
+
+
 .Project img {
-    /* width: 300px; */
     border-radius: 10px;
     display: block;
     width: 100%;
-    /* position: relative; */
+
 }
 
 .overlay {
