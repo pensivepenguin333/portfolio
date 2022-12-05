@@ -1,4 +1,5 @@
 import "./Personas.css";
+import personas from './img/two-personas.png'; 
 
 export default function Personas() {
     return  (
@@ -122,8 +123,16 @@ export default function Personas() {
                 users who use the projector dashboards to enhance their 
                 entertainment experience:
                 <div class="two-personas">
-                    <img src='../images/two-personas.png' />
+                    <img src={personas} />
                 </div>
+            </p>
+            <h2>
+                Storyboard
+            </h2>
+            <p className="content">
+                Using the "Entertained Elaine" persona, I created the following 
+                storyboard to depict Elaine's journey in connecting her Switch 
+                to the projector:
             </p>
         </div>
     )
