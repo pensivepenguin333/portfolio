@@ -23,7 +23,7 @@ h1 span{
     max-width: 600px;
     min-width: 400px;
     height: auto;
-    margin: 15px 0px 10px 0px;
+    margin: 15px 0px 0px 0px;
 }
 
 .sketch {
@@ -34,12 +34,25 @@ h1 span{
 .two-personas img {
     width: 65vw;
     height: auto;
-    margin: 10px 0px 10px 0px;
+    margin: 10px 0px 0px 0px;
     min-width: 400px;
-    max-width: 800;
+    max-width: 800px;
 }
 
 .two-personas {
+    display: flex;
+    justify-content: center;
+}
+
+.storyboard img {
+    width: 60vw;
+    height: auto;
+    margin: 10px 0px 0px 0px;
+    min-width: 400px;
+    max-width: 600px;
+}
+
+.storyboard {
     display: flex;
     justify-content: center;
 }

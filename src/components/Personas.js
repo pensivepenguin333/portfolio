@@ -1,5 +1,7 @@
 import "./Personas.css";
 import personas from './img/two-personas.png'; 
+import sketch from './img/sketch.png'; 
+import storyboard from './img/storyboard.png'; 
 
 export default function Personas() {
     return  (
@@ -30,7 +32,7 @@ export default function Personas() {
                 provides additional display and volume options, as shown below:
             </p>
             <div className="sketch">
-                <img src="images/sketch.png" />
+                <img src={sketch} />
             </div>
             <h2>
                 Observations
@@ -133,6 +135,20 @@ export default function Personas() {
                 Using the "Entertained Elaine" persona, I created the following 
                 storyboard to depict Elaine's journey in connecting her Switch 
                 to the projector:
+                <div className="storyboard">
+                    <img src={storyboard} />
+                </div>
+            </p>
+            <h2>
+                Conclusion
+            </h2>
+            <p className="content">
+                This project truly highlighted the importance of asking 
+                objective questions, making observations without assuming 
+                anything, and creating both a persona and storyboard that are 
+                clear enough to help better understand an interaction with 
+                a given interface. By doing so, we can better improve an 
+                interface for its users.
             </p>
         </div>
     )
