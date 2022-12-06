@@ -1,4 +1,4 @@
-.Iterative {
+.Dev {
     text-align: left;
     padding-top: 1rem;
     width: 80vw;
@@ -6,8 +6,8 @@
     max-width: 1500px;
 }
 
-.iterative span{
-    background-color: #ffe4f3;
+.dev span{
+    background-color: #d7dcfe;
 }
 
 .content span {

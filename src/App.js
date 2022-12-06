@@ -6,6 +6,7 @@ import About from './components/About'
 import Personas from './components/Personas'
 import Responsive from './components/Responsive'
 import Iterative from './components/Iterative'
+import Dev from './components/Dev'
 import {Route, Routes} from 'react-router-dom'
 
 function App() {
@@ -20,7 +21,7 @@ function App() {
           <Route path="/personas" element={<Personas/>} />
           <Route path="/responsive" element={<Responsive/>} />
           <Route path="/iterative" element={<Iterative/>} />
-          <Route path="/react" element={<About/>} />
+          <Route path="/dev" element={<Dev/>} />
         </Routes>
       </div>
     </div>
