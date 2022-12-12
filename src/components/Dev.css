@@ -28,58 +28,15 @@
     color: #ebbad5;
 }
 
-.sketches img {
-    width: 80vw;
-    max-width: 700px;
-    min-width: 400px;
-    height: auto;
-    margin: 15px 0px 0px 0px;
-}
-
-.sketches {
-    display: flex;
-    justify-content: center;
-}
-
-.lofi img {
-    width: 65vw;
+.app img {
+    width: 70vw;
     height: auto;
     margin: 10px 0px 0px 0px;
     min-width: 400px;
     max-width: 800px;
 }
 
-.lofi {
+.app {
     display: flex;
     justify-content: center;
-}
-
-.hifi {
-    display: flex;
-    justify-content: center;
-}
-
-.hifi video {
-    width: 30vw;
-    max-width: 500px;
-    min-width: 320px;
-    height: auto;
-    margin: 10px 0px 10px 0px;
-}
-
-.sub-p {
-    padding-bottom: 3px;
-}
-
-.tests {
-    display: flex;
-    justify-content: center;
-}
-
-.tests video {
-    width: 70vw;
-    max-width: 700px;
-    min-width: 320px;
-    height: auto;
-    margin: 10px 0px 10px 0px;
 }
