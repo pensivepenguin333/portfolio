@@ -19,13 +19,14 @@
 } 
 
 .content a {
-    text-decoration: none;
+    text-decoration: underline black;
     color: black;
     font-weight: 700;
 }
 
 .content a:hover {
-    color: #6b877b;
+    color: rgb(125, 125, 125);
+    text-decoration: underline rgb(125, 125, 125);
 }
 
 .annotations img {
