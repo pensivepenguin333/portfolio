@@ -16,7 +16,7 @@ function App() {
       <hr />
       <div className='container'>
         <Routes>
-          <Route path="/portfolio2/" element={<Home/>} />
+          <Route path="/portfolio/" element={<Home/>} />
           <Route path="/about" element={<About/>} />
           <Route path="/personas" element={<Personas/>} />
           <Route path="/responsive" element={<Responsive/>} />
