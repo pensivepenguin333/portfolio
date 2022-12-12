@@ -1,0 +1,19 @@
+.About {
+    text-align: center;
+}
+
+.child {
+    display: inline-block;
+    padding: 2rem 2rem;
+    vertical-align: middle;
+    text-align: left;
+    max-width: 600px;
+    min-width: 200px;
+}
+
+.child img {
+    width: 30vw;
+    max-width: 600px;
+    min-width: 200px;
+    height: auto;
+}
