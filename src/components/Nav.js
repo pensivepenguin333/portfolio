@@ -4,7 +4,7 @@ import {Link, useMatch, useResolvedPath} from 'react-router-dom'
 export default function Nav() {
     return  (
         <nav className="nav">
-            <Link to="/portfolio2/" className="name">pensivepenguin333</Link>
+            <Link to="/portfolio/" className="name">pensivepenguin333</Link>
             <ul>
                 <CustomLink to="/portfolio/"> work </CustomLink>
                 <CustomLink to="/about"> about </CustomLink>
