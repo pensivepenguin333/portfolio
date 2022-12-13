@@ -17,9 +17,9 @@ export default function Iterative() {
             </h2>
             <p className="content">
                 For this project, we were asked to design an interactive 
-                interface for an emerging startup and gain insight into 
-                the full process of mocking up and designing a solution 
-                to the startup's concept. 
+                interface for an <span>emerging startup</span> and gain insight 
+                into the full process of mocking up and <span>designing a 
+                solution</span> to the startup's concept. 
             </p>
             <h2>
                 Overview
@@ -27,10 +27,11 @@ export default function Iterative() {
             <p className="content">
                 We decided to create a mobile prototype 
                 for <a href="https://www.ycombinator.com/companies/lovecast">
-                Lovecast</a>, an app for celebrating events digitally. 
-                Users have the opportunity to interact and form memories with 
-                their guests, regardless of where they are in the world; from 
-                birthday parties to weddings, the options are truly endless. 
+                Lovecast</a>, an app for <span>celebrating events digitally</span>. 
+                Users have the opportunity to <span>interact</span> and <span>form 
+                memories</span> with their guests, regardless of where they are 
+                in the world; from birthday parties to weddings, the options 
+                are truly endless. 
             </p>
             <h2>
                 Sketches
@@ -40,7 +41,7 @@ export default function Iterative() {
                 for the Lovecast app. We focused on three key pages of 
                 this app: the <span>home</span> page, <span>livestream</span> page, 
                 and <span>invitations</span> page. We came up with the 
-                following four designs:
+                following <span>four designs</span>:
                 <div class="sketches">
                     <img src={sketches} />
                 </div>
@@ -68,34 +69,34 @@ export default function Iterative() {
             </h2>
             <p className="content">
                 Before finalizing our hi-fi prototype, we received the 
-                following critiques from our peers to consider:
+                following <span>critiques from our peers</span> to consider:
                 <ul>
-                    <li>Increasing the small text, which could've 
+                    <li>Increasing the <span>small text</span>, which could've 
                         caused readibility issues for some users
                     </li>
-                    <li>Increasing the color contrast between the 
+                    <li>Increasing the <span>color contrast</span> between the 
                         originally light pink button on top of the 
                         purple background 
                     </li>
-                    <li>Having the chat box in the livestream be 
-                        collapsable
+                    <li>Having the <span>chat box</span> in the livestream 
+                        be <span>collapsable</span>
                     </li>
-                    <li>Making the "Create Your Own Event" template 
-                        stand out more 
+                    <li>Making the <span>"Create Your Own Event"</span> template <span>stand 
+                        out</span> more 
                     </li>
-                    <li>Making the Pre-Stream Checklist icons more 
-                        apparent that they should be clicked on   
+                    <li>Making the <span>Pre-Stream Checklist icons</span> more 
+                        apparent that they should be <span>clicked on </span>  
                     </li>
-                    <li>Putting the "Upload your own image" option 
-                        before the built-in photos, since it makes more 
+                    <li>Putting the <span>"Upload your own image" option 
+                        before the built-in photos</span>, since it makes more 
                         sense for users to add their own photos for 
                         personal events  
                     </li>
-                    <li>Including both a "Join" and "Details" button 
-                        for events that are about to start, as opposed 
-                        to just "Join"
+                    <li>Including both a <span>"Join" and "Details" 
+                        button </span> for events that are about to start, as 
+                        opposed to just "Join"
                     </li>
-                    <li>Adding clarity to the fact that more guests 
+                    <li>Adding <span>clarity</span> to the fact that more guests 
                         can be invited to an event 
                     </li>
                 </ul>
@@ -104,9 +105,9 @@ export default function Iterative() {
                 Hi-Fi Prototype
             </h2>
             <p className="content">
-                Taking our peers' critiques into consideration, we 
-                updated our hi-fi prototype. A video demo of our 
-                prototype is as follows:
+                Taking our peers' critiques into consideration, 
+                we <span>updated our hi-fi prototype</span>. A video demo of 
+                our prototype is as follows:
                 <div class="hifi">
                     <video controls>
                         <source src={hifi} />
@@ -119,9 +120,10 @@ export default function Iterative() {
             <p className="content">
                 <p class="sub-p">
                     We then went through a second round of feedback by 
-                    submitting our updated prototype to UserTesting, where 
-                    three testers would complete a task and provide 
-                    feedback on how the process went for them.
+                    submitting our updated prototype to UserTesting, 
+                    where <span>three testers</span> would <span>complete a 
+                    task</span> and <span>provide feedback</span> on how the 
+                    process went for them.
                 </p>
                 <p class="sub-p">
                     The first task was to <span>start the Tea Party</span> event. None 
@@ -155,8 +157,8 @@ export default function Iterative() {
                 <p className="sub-p">
                     Based on just our UserTesting results and 
                     feedback, we wouldn't change much about our interface, 
-                    as all users gave positive feedback and didn't have any 
-                    struggles. There was no unexpected behavior. The 
+                    as all users <span>gave positive feedback</span> and didn't have any 
+                    struggles. There were <span>no unexpected behaviors</span>. The 
                     unnecessary clicks that users made (if any) were only 
                     due to the fact that they were given a Figma mockup, 
                     which users on this site aren't used to experiencing. 
@@ -186,11 +188,11 @@ export default function Iterative() {
             </h2>
             <p className="content">
                 Designing the Lovecast app gave us the opportunity to 
-                not only explore various design choices, but also 
-                improve upon our first iteration of our prototype based 
-                on the feedback we received. There are many nuances that 
-                come with creating an intuitive interface for users,
-                making it imperative to thoroughly test a design 
+                not only <span>explore various design choices</span>, but 
+                also <span>improve</span> upon our first iteration of our 
+                prototype <span>based on the feedback we received</span>. There 
+                are many nuances that come with creating an intuitive interface 
+                for users, making it imperative to thoroughly test a design 
                 and continue improving upon it. 
             </p>
         </div>
