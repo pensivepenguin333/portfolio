@@ -11,23 +11,24 @@ export default function Dev() {
                 Introduction
             </h2>
             <p className="content">
-                For this project, we were asked to use React to develop an 
-                interactive interface, use interface components, and tie the 
-                components to an internal data state. This interface was meant
-                to allow for users to select items out of a list, then 
-                aggregate the selected items.
+                For this project, we were asked to use <span>React</span> to 
+                develop an interactive interface, use interface components, and 
+                tie the components to an internal data state. This interface 
+                was meant to allow for users to <span>select items out of a 
+                list</span>, then <span>aggregate the selected items</span>.
             </p>
             <h2>
                 Overview
             </h2>
             <p className="content">
-                I decided to create an interface where a user is able to filter 
-                a collection of 12 songs, sort the displayed songs, and "like" 
-                the songs they want to add to their collection of favorites. 
-                This app essentially can serve as a way to create a playlist 
-                based on the music the user enjoys; furthermore, by keeping 
-                track of the total time of the liked songs, the user can create 
-                a "getting ready" or "workout" playlist, where the end of a song 
+                I decided to create an interface where a user is able 
+                to <span>filter</span> a collection of 12 songs, <span>sort</span> the 
+                displayed songs, and <span>"like"</span>the songs they want to 
+                add to their collection of favorites. This app essentially can 
+                serve as a way to <span>create a playlist </span> based on the 
+                music the user enjoys; furthermore, by keeping track of the 
+                total time of the liked songs, the user can create a "getting 
+                ready" or "workout" playlist, where the end of a song 
                 or playlist is indicative of the completion of a task.
             </p>
             <h2>
@@ -35,7 +36,7 @@ export default function Dev() {
             </h2>
             <p className="content">
                 Once I picked my theme for my list and aggregator interface, I 
-                decided to include the following features:
+                decided to include the following <span>features</span>:
                 <ul>
                     <li> <span>Filtering:</span> users can filter by genre 
                     (electronic, indie, pop) and artist (Billie Eilish, Hippo
@@ -54,19 +55,19 @@ export default function Dev() {
                     a button for the user to like and unlike the song
                     </li>
                 </ul>
-                The interface has the following functionality:
+                The interface has the following <span>functionality</span>:
                 <ul>
-                    <li>Any combination of filters and sorting methods work 
+                    <li><span>Any combination of filters and sorting methods</span> work 
                         together; multiple filters can be applied, but only 
                         one sorting method can be selected at a time, as 
                         denoted by the type of selectors (checkboxes versus 
                         radio buttons)
                     </li>
-                    <li>Users can revert the filters and sorting methods back
-                        to their original state (without refreshing the page) 
-                        by clicking the "Reset Filters/Sort" button
+                    <li>Users can <span>revert the filters and sorting methods</span> back
+                        to their <span>original state</span> (without refreshing the page) 
+                        by clicking the <span>"Reset Filters/Sort"</span> button
                     </li>
-                    <li>Users can add and remove songs from their favorites 
+                    <li>Users can <span>add and remove songs</span> from their favorites 
                         by clicking the heart button for each song; the 
                         aggregated duration of the favorited songs will 
                         update accordingly
@@ -83,10 +84,10 @@ export default function Dev() {
             </h2>
             <p className="content">
                 This project helped me gain a much better understanding of 
-                having various components of my interface interact with each
-                other. Not only that, but it also made me thoroughly consider 
-                my design choices in making the interface intuitive for the 
-                user. 
+                having <span>various components</span> of my interface 
+                interact with each other. Not only that, but it also made me 
+                thoroughly consider my <span>design choices</span> in making the 
+                interface <span>intuitive</span> for the user. 
             </p>
         </div>
     )

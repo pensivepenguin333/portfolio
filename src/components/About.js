@@ -27,7 +27,6 @@ export default function About() {
                     Providence, discovering new music, and taking photos of 
                     any cute pet I encounter (like the cat you see to the left)!
                 </p>
-
             </div>
         </div>
     )
