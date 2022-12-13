@@ -12,7 +12,7 @@ export default function About() {
                     Hi, I'm pensivepenguin333! 💭
                 </h2>
                 <p className="info">
-                    🐧 I'm a student at Brown University studying Applied 
+                    🐧 I'm a junior at Brown University studying Applied 
                     Mathematics-Computer Science. Specifically, my interests 
                     are in software engineering and design.
                 </p>
