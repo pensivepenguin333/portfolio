@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.1b8cf8f3.css",
-    "main.js": "/portfolio/static/js/main.917d0193.js",
+    "main.js": "/portfolio/static/js/main.29f0e9db.js",
     "static/media/it-hifi.mov": "/portfolio/static/media/it-hifi.1a20b02c0bad93bd91e9.mov",
     "static/media/test3.mov": "/portfolio/static/media/test3.01a85c56ba76a3c024e0.mov",
     "static/media/test1.mov": "/portfolio/static/media/test1.a0e05ef9393d2ec30906.mov",
@@ -23,10 +23,10 @@
     "static/media/dev.jpeg": "/portfolio/static/media/dev.df8d122bea0c9f26fdba.jpeg",
     "index.html": "/portfolio/index.html",
     "main.1b8cf8f3.css.map": "/portfolio/static/css/main.1b8cf8f3.css.map",
-    "main.917d0193.js.map": "/portfolio/static/js/main.917d0193.js.map"
+    "main.29f0e9db.js.map": "/portfolio/static/js/main.29f0e9db.js.map"
   },
   "entrypoints": [
     "static/css/main.1b8cf8f3.css",
-    "static/js/main.917d0193.js"
+    "static/js/main.29f0e9db.js"
   ]
 }
