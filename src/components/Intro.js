@@ -6,7 +6,7 @@ export default function Intro() {
             <div className="container">
                 <div className="intro">
                     <p className="greeting">
-                        hello there!
+                        Hello there! 👋🏻
                     </p>
                     <p className="info">
                         I'm <span>pensivepenguin333</span>, an undergraduate student at 
